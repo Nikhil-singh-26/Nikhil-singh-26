@@ -5,13 +5,14 @@
 <table width="100%" cellpadding="10">
 <tr>
 
-<td width="65%">
+<!-- LEFT SECTION -->
+<td width="65%" valign="top">
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFC6&width=600&lines=Hi,+There+👋+I'm+Nikhil+Singh;Code.+Learn.+Build.+Repeat" />
 </p>
 
-<p style="font-size:22px; line-height:1.6;">
+<p>
   💻 <b>B.Tech CSE Student</b><br>
   ⚡ Learning <b>DSA (Java)</b> + <b>Web Development</b><br>
   ⚡ Love Problem Solving & Coding<br>
@@ -20,9 +21,17 @@
   🚀 Future Software Engineer
 </p>
 
+
+  <img width="150" align ="center"
+    src="https://komarev.com/ghpvc/?username=Nikhil-singh-26&label=Profile%20Visitor&color=071A2C&style=for-the-badge"
+    alt="Profile Visitor" />
+
+  <img width="280" align ="centre"
+    src="https://github-widgetbox.vercel.app/api/profile?username=Nikhil-singh-26&data=followers,repositories,stars,commits&theme=viridescent" />
+
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img alt="gif" src="./code.gif" width="300"/>
 
@@ -30,8 +39,6 @@
 
 </tr>
 </table>
-
-
 
 <p align="center">
 
@@ -45,7 +52,6 @@
 
  > Tools and technologies that I have worked with and I'm interested in
 <table>
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
      <td align="center" width="96">
@@ -126,10 +132,8 @@
     </td>
   </tr>
 </table>
-</div>
 </table>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</div>
 
 
 ### 📚 Core CS
