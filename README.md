@@ -1,15 +1,14 @@
 <!-- 🔥 HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nikhil%20Singh&fontSize=45&fontColor=00ffcc&animation=twinkling&fontAlignY=40"/>
-
-<!-- 🔥 TYPING -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Nikhil%20Singh&fontSize=45&fontColor=00ffcc&animation=twinkling&fontAlignY=40"/>
 
 <table width="100%" cellpadding="10">
 <tr>
+
 <td width="65%">
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFC6&center=false&vCenter=true&width=600&lines=Hi,+There+👋+I'm+Nikhil+Singh;Code.+Learn.+Build.+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFC6&width=600&lines=Hi,+There+👋+I'm+Nikhil+Singh;Code.+Learn.+Build.+Repeat" />
 </p>
 
 <p style="font-size:18px; line-height:1.6;">
@@ -22,12 +21,7 @@
 </p>
 
 </td>
-
-<td width="35%" align="center">
-
-<img src="" width="350"/>
-
-</td>
+ <img alt="gif" src=".gif">
 </tr>
 </table>
 
