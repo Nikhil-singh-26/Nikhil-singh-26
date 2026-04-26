@@ -43,7 +43,7 @@
 <p align="center">
 
 <a href="./Resume.pdf" download>
-  <img src="https://img.shields.io/badge/ACCESS%20RESUME-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FFC6" height="55"/>
+  <img src="https://img.shields.io/badge/ACCESS%20RESUME-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=yellow" height="55"/>
 </a>
 
 </p>
@@ -148,6 +148,8 @@
 </div>
 
 ---
+###
+<img src="https://pacman.abozanona.me?username=Nikhil-singh-26" />
 
 ### 📊 GitHub Stats
 
@@ -188,9 +190,7 @@
   </a>
 </p>
 
----
-
-
+###
 <!-- FOOTER -->
 
 <p align="center">
