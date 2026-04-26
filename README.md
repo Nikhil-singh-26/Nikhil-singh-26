@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFC6&width=600&lines=Hi,+There+👋+I'm+Nikhil+Singh;Code.+Learn.+Build.+Repeat" />
 </p>
 
-<p style="font-size:18px; line-height:1.6;">
+<p style="font-size:22px; line-height:1.6;">
   💻 <b>B.Tech CSE Student</b><br>
   ⚡ Learning <b>DSA (Java)</b> + <b>Web Development</b><br>
   ⚡ Love Problem Solving & Coding<br>
@@ -21,9 +21,16 @@
 </p>
 
 </td>
- <img alt="gif" src=".gif">
+
+<td width="35%" align="center">
+
+<img alt="gif" src="./code.gif" width="300"/>
+
+</td>
+
 </tr>
 </table>
+
 
 
 <p align="center">
