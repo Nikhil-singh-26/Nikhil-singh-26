@@ -44,12 +44,12 @@
        <br>java
      </td>
      <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/c-icon.svg" width="60" style="margin:10px;" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
       <br>c
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="60" style="margin:10px;" />
-      <br>androidstudio
+      <br>Render
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
@@ -74,8 +74,8 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="BootStrap" />
-      <br>BootStrap
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
@@ -85,6 +85,10 @@
         <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJS" />
       <br>NextJS
     </td>
+  <td align="center" width="96">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+    <br>Postman
+</td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -120,21 +124,15 @@
 
 
 ### 📚 Core CS
-<img src="https://img.shields.io/badge/OOP-00FFC6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-00FFC6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBMS-00FFC6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OS-00FFC6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CN-00FFC6?style=for-the-badge" />
-## 🚀 Projects
+<div align="center" style="line-height:2.5;">
 
-<!-- Add your projects later -->
+<img src="https://img.shields.io/badge/OOP-000?style=for-the-badge&logo=java&logoColor=00FFC6" height="45"/>
+<img src="https://img.shields.io/badge/DSA-000?style=for-the-badge&logo=leetcode&logoColor=00FFC6" height="45"/>
+<img src="https://img.shields.io/badge/DBMS-000?style=for-the-badge&logo=mysql&logoColor=00FFC6" height="45"/>
+<img src="https://img.shields.io/badge/OS-000?style=for-the-badge&logo=linux&logoColor=00FFC6" height="45"/>
+<img src="https://img.shields.io/badge/CN-000?style=for-the-badge&logo=cisco&logoColor=00FFC6" height="45"/>
 
-<!-- Example:
-### 🔹 EcoTrack AI
-- AI-based energy tracking system  
-- Tech: MERN, WebSockets  
-- Link: your repo  
--->
+</div>
 
 ---
 
@@ -147,14 +145,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-singh-26&theme=tokyo-night" />
-</p>
-
----
-
-## 🎮 Tetris Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil-singh-26&theme=tokyonight" />
 </p>
 
 ---
@@ -216,4 +206,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
