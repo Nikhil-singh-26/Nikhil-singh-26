@@ -148,10 +148,13 @@
 </div>
 
 ---
-###
+### 
+Contribution Graph
 <img src="https://pacman.abozanona.me?username=Nikhil-singh-26" /> 
 <!--<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> -->
-### 📊 GitHub Stats
+
+---
+📊 GitHub Stats
 
 
 <p align="center">
