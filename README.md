@@ -22,7 +22,7 @@
 </p>
 
 
-  <img width="150" align ="center"
+  <img width="150"
     src="https://komarev.com/ghpvc/?username=Nikhil-singh-26&label=Profile%20Visitor&color=071A2C&style=for-the-badge"
     alt="Profile Visitor" />
 
