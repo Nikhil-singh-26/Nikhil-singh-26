@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="60" style="margin:10px;" />
-      <br>Render
+      <br>Androidstudio
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
@@ -144,8 +144,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
