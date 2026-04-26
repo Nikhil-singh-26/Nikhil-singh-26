@@ -149,8 +149,8 @@
 
 ---
 ###
-<img src="https://pacman.abozanona.me?username=Nikhil-singh-26" />
-
+<img src="https://pacman.abozanona.me?username=Nikhil-singh-26" /> 
+<!--<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> -->
 ### 📊 GitHub Stats
 
 
