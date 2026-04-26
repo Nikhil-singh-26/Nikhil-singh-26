@@ -32,6 +32,14 @@
 </table>
 
 
+<p align="center">
+
+<a href="./Resume.pdf" download>
+  <img src="https://img.shields.io/badge/ACCESS%20RESUME-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FFC6" height="55"/>
+</a>
+
+</p>
+
 ## 💻 Tech Stack
 
  > Tools and technologies that I have worked with and I'm interested in
@@ -138,42 +146,24 @@
 
 ## 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-singh-26&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-singh-26&theme=tokyonight" width="48%" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil-singh-26&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-singh-26&theme=tokyo-night" />
-</p>
-
----
-
-## 💼 Resume
-
-<p align="center">
-  <a href="./Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-00FFC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
-  </a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-singh-26&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-singh-26&bg_color=1a1b27&color=00FFC6&line=00FFC6&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
-
-## 🧠 Coding Profiles
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://leetcode.com/u/Nikhil_singh_26">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Nikhil-singh-26">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/nikhil-singh-981677379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -197,13 +187,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+
+<!-- FOOTER -->
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="Thankyou.png" width="100%" height="70"/>
 </p>
-
-
----
-
-
