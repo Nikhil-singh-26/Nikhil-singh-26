@@ -56,7 +56,7 @@ how systems work internally, and then improving what I build.
 
 📄 Resume
 
-<p align="center"> <a href="./Nikhil_Singh_Resume.pdf"> <img src="https://img.shields.io/badge/View%20My%20Resume-00FFC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000" /> </a> </p>
+<p align="center"> <a href="./Resume.pdf"> <img src="https://img.shields.io/badge/View%20My%20Resume-00FFC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000" /> </a> </p>
 
 ---
 
