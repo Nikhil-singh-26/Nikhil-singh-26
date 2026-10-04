@@ -20,6 +20,7 @@
 🌱 Continuously learning new technologies<br>
 🎯 Working towards becoming a <b>Software Engineer</b>
 </p>
+<p align="center"> <a href="./Resume.pdf"> <img src="https://img.shields.io/badge/View%20My%20Resume-00FFC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000" /> </a> </p>
 
 <br>
 
@@ -40,34 +41,14 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Computer Science student who enjoys turning ideas into working software.
-
-My primary focus is **Full Stack Web Development**, where I work across the
-frontend, backend, APIs, databases and deployment. I also build applications
-with **Flutter** and continuously strengthen my problem-solving skills through
-**Data Structures and Algorithms in Java**.
-
-I prefer learning by building real projects, debugging problems, understanding
-how systems work internally, and then improving what I build.
-
----
-
-📄 Resume
-
-<p align="center"> <a href="./Resume.pdf"> <img src="https://img.shields.io/badge/View%20My%20Resume-00FFC6?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000" /> </a> </p>
-
----
-
 ## 💻 Tech Stack
 
-> Tools and technologies that I have worked with and I'm interested in
+> Tools and technologies that I have worked with.
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg"  width="45" height="45"/>
       <br>Java
     </td>
     <td align="center" width="96">
@@ -179,7 +160,7 @@ how systems work internally, and then improving what I build.
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" width="70"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQad04Zi8X5WSAqAJYrbtO3KNu8D1UISyBx_93K4YWQDpclOACPLdgdFeZ2&s=10"  width="45" height="45"/>
       <br>Render
     </td>
     <td align="center" width="96">
@@ -187,8 +168,16 @@ how systems work internally, and then improving what I build.
       <br>Three.js
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=88CE02" width="70"/>
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif"  width="45" height="45"/>
       <br>GSAP
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/rangle/image/upload/v1659118778/rangle.io/blogs/redux-typescripted/feature-photo.gif"  width="45" height="45"/>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/figma.webp"  width="45" height="45"/>
+      <br>Figma
     </td>
   </tr>
 </table>
@@ -219,34 +208,39 @@ how systems work internally, and then improving what I build.
 <tr>
 <td width="33%" valign="top">
 
-### 🌱 EcoTrack AI
+### ☕ The Brew Club
 
-A full-stack energy monitoring and analytics platform designed to track
-energy consumption, devices, alerts and insights.
+A creator-support platform where users can discover creators and
+support them through real payments.
+
+🔗 **[Live Demo](https://the-brew-club.vercel.app)**
 
 **Focus**
 
-Full Stack Development
-Real-Time Data
-APIs
-Database
-Analytics
+Full Stack Development  
+Next.js  
+Authentication  
+MongoDB  
+Razorpay
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🛣️ RoadVision
+### 🔗 Shrinka URL
 
-A road damage detection and monitoring platform focused on automated pothole
-detection, geospatial visualization and reporting.
+A URL-shortening application designed to create short,
+shareable links with a simple and efficient user experience.
+
+🔗 **[Live Demo](https://shrinka-url.vercel.app/)**
 
 **Focus**
 
-Full Stack Development
-Computer Vision
-Maps
-APIs
+Full Stack Development  
+React.js  
+Node.js  
+Express.js  
+MongoDB
 
 </td>
 
@@ -254,98 +248,20 @@ APIs
 
 ### 🧠 Know Via
 
-A knowledge-management application designed to transform scattered notes
-into an interconnected map of personal knowledge.
+A knowledge-management application designed to transform scattered
+notes into an interconnected map of personal knowledge.
 
 **Focus**
 
-Flutter
-Mobile Development
-Local Data
+Flutter  
+Dart  
+Mobile Development  
+Local Data  
 Knowledge Management
 
 </td>
 </tr>
 </table>
-
----
-
-## 🧠 Problem Solving
-
-I am currently strengthening my problem-solving skills through
-**Data Structures and Algorithms using Java**.
-
-### Topics I've Worked On
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arrays-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Searching-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sorting-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Strings-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Bit%20Manipulation-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Recursion-000?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Merge%20Sort-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Quick%20Sort-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Subsets%20%26%20Subsequences-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backtracking-000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Combinations-000?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Nikhil_singh_26/">
-    <img src="https://img.shields.io/badge/LeetCode-Nikhil__singh__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IIIT%20Hackathon-Finalist-000?style=for-the-badge&logo=trophy&logoColor=FFD700"/>
-
-<img src="https://img.shields.io/badge/SSH%20Hackathon-Semifinalist-000?style=for-the-badge&logo=trophy&logoColor=FFD700"/>
-
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-🏆 **IIIT Hackathon**
-
-Finalist
-**Team Lead**
-
-</td>
-
-<td align="center" width="50%">
-
-🚀 **Symbiosis Skill Hackathon (SSH)**
-
-Semifinalist
-**Team Lead**
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎓 Training
 
@@ -383,17 +299,6 @@ developer-focused environment for technical learning and collaboration.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil-singh-26&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-singh-26&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Contribution Graph
 
