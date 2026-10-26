@@ -248,8 +248,9 @@ MongoDB
 
 ### 🧠 Know Via
 
-A knowledge-management application designed to transform scattered
-notes into an interconnected map of personal knowledge.
+Document learning app that uses AI for document-based Q&A, summaries and quizzes. 
+
+🔗 **[Live Demo](https://github.com/Nikhil-singh-26/knowvia/releases)**
 
 **Focus**
 
@@ -263,7 +264,7 @@ Knowledge Management
 </tr>
 </table>
 
-## 🎓 Training
+## 🎓 Experience
 
 <table>
 <tr>
